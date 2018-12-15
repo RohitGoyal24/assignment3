@@ -1,0 +1,11 @@
+header{
+    display:flex;
+    margin: 0 auto;
+}
+div{
+    background-color: green;
+    height: 500px;
+    width: 33%;
+    text-align: center;
+    margin:10px 10px 10px 10px;
+}
